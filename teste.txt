@@ -1,0 +1,3 @@
+cria mina 4
+cria planicie 2
+cria castelo 1
